@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/bin/Debug/net8.0/Encapsulamento
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/bin/Debug/net8.0/Encapsulamento.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/bin/Debug/net8.0/Encapsulamento.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/bin/Debug/net8.0/Encapsulamento.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/bin/Debug/net8.0/Encapsulamento.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/Encapsulamento.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/Encapsulamento.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/Encapsulamento.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/Encapsulamento.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/Encapsulamento.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/refint/Encapsulamento.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/Encapsulamento.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/Encapsulamento.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Encapsulamento/obj/Debug/net8.0/ref/Encapsulamento.dll
