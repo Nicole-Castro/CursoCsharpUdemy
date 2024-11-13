@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/bin/Debug/net8.0/ExercicioFuncionario
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/bin/Debug/net8.0/ExercicioFuncionario.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/bin/Debug/net8.0/ExercicioFuncionario.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/bin/Debug/net8.0/ExercicioFuncionario.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/bin/Debug/net8.0/ExercicioFuncionario.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/ExercicioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/ExercicioFuncionario.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/ExercicioFuncionario.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/ExercicioFuncionario.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/ExercicioFuncionario.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/ExercicioFuncionario.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/refint/ExercicioFuncionario.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/ExercicioFuncionario.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/ExercicioFuncionario.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosMetodos/ExercicioFuncionario/obj/Debug/net8.0/ref/ExercicioFuncionario.dll
