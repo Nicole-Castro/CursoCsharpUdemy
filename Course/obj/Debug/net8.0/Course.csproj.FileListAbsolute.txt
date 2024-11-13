@@ -12,3 +12,4 @@
 /home/nicole/Documentos/C#/CursoC#UdemyCode/Course/obj/Debug/net8.0/Course.pdb
 /home/nicole/Documentos/C#/CursoC#UdemyCode/Course/obj/Debug/net8.0/Course.genruntimeconfig.cache
 /home/nicole/Documentos/C#/CursoC#UdemyCode/Course/obj/Debug/net8.0/ref/Course.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Course/obj/Debug/net8.0/Course.sourcelink.json
