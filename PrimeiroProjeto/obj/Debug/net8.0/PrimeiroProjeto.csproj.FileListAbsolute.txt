@@ -1,0 +1,14 @@
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.deps.json
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.dll
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/bin/Debug/net8.0/PrimeiroProjeto.pdb
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.dll
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/obj/Debug/net8.0/refint/PrimeiroProjeto.dll
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.pdb
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/obj/Debug/net8.0/PrimeiroProjeto.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#Udemy/PrimeiroProjeto/obj/Debug/net8.0/ref/PrimeiroProjeto.dll

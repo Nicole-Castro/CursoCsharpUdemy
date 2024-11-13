@@ -1,0 +1,14 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/bin/Debug/net8.0/Exercicio1
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/bin/Debug/net8.0/Exercicio1.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/bin/Debug/net8.0/Exercicio1.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/bin/Debug/net8.0/Exercicio1.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/bin/Debug/net8.0/Exercicio1.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/obj/Debug/net8.0/Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/obj/Debug/net8.0/Exercicio1.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/obj/Debug/net8.0/Exercicio1.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/obj/Debug/net8.0/Exercicio1.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/obj/Debug/net8.0/Exercicio1.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/obj/Debug/net8.0/refint/Exercicio1.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/obj/Debug/net8.0/Exercicio1.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/obj/Debug/net8.0/Exercicio1.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/Exercicio1/obj/Debug/net8.0/ref/Exercicio1.dll
