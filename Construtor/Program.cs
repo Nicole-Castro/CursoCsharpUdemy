@@ -13,10 +13,16 @@ namespace Course
             string nome = Console.ReadLine() ?? "vazio";
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine() ?? "0.0", CultureInfo.InvariantCulture);
-            Console.Write("Quantidade no estoque: ");
-            int quantidade = int.Parse(Console.ReadLine() ?? "0");
+            // Console.Write("Quantidade no estoque: ");
+            // int quantidade = int.Parse(Console.ReadLine() ?? "0");
 
-            Produto p = new Produto(nome, preco, quantidade);
+            // Produto p = new Produto(nome, preco, quantidade);
+            Produto p = new Produto(nome, preco);
+            Produto p2 = new Produto{ 
+                Nome = "Tv",
+                Preco = 500.00,
+                Quantidade = 2
+            };
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
