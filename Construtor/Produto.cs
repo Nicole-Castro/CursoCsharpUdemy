@@ -7,10 +7,10 @@ namespace Course
         public double Preco;
         public int Quantidade;
 
-        public Produto(string nome, double preco, int quantidade){
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
+        public Produto(string Nome, double Preco, int Quantidade){
+            this.Nome = Nome;
+            this.Preco = Preco;
+            this.Quantidade = Quantidade;
         }
         public Produto(string nome, double preco){
             Nome = nome;
@@ -18,7 +18,7 @@ namespace Course
             Quantidade = 5;
         }
         public Produto(){
-            
+
         }
         public double ValorTotalEmEstoque()
         {
