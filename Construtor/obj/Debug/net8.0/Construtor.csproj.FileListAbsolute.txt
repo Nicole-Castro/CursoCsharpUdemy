@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/bin/Debug/net8.0/Construtor
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/bin/Debug/net8.0/Construtor.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/bin/Debug/net8.0/Construtor.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/bin/Debug/net8.0/Construtor.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/bin/Debug/net8.0/Construtor.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/Construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/Construtor.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/Construtor.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/Construtor.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/Construtor.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/Construtor.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/refint/Construtor.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/Construtor.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/Construtor.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Construtor/obj/Debug/net8.0/ref/Construtor.dll
