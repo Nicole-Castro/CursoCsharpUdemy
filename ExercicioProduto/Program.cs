@@ -18,6 +18,20 @@ namespace E // Note: actual namespace depends on the project name.
             p.Quantidade = int.Parse(Console.ReadLine() ?? "0");
 
             System.Console.WriteLine("Dados do produto: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser adcionados ao estoque: ");
+            int qte = int.Parse(Console.ReadLine()?? "0");
+            p.AdicionarProdutos(qte);
+            Console.WriteLine();
+            System.Console.WriteLine("Dados atualizados do produto: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removidos do estoque: ");
+            qte = int.Parse(Console.ReadLine()?? "0");
+            p.RemoverProdutos(qte);
+            Console.WriteLine();
+            System.Console.WriteLine("Dados atualizados do produto: " + p);
         }
     }
 }
