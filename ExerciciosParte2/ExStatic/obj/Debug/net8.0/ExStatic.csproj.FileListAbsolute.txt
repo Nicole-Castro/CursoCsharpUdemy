@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/bin/Debug/net8.0/ExStatic
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/bin/Debug/net8.0/ExStatic.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/bin/Debug/net8.0/ExStatic.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/bin/Debug/net8.0/ExStatic.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/bin/Debug/net8.0/ExStatic.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/ExStatic.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/ExStatic.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/ExStatic.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/ExStatic.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/ExStatic.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/ExStatic.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/refint/ExStatic.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/ExStatic.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/ExStatic.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExerciciosParte2/ExStatic/obj/Debug/net8.0/ref/ExStatic.dll
