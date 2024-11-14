@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/bin/Debug/net8.0/TimeSpan
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/bin/Debug/net8.0/TimeSpan.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/bin/Debug/net8.0/TimeSpan.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/bin/Debug/net8.0/TimeSpan.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/bin/Debug/net8.0/TimeSpan.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/TimeSpan.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/TimeSpan.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/TimeSpan.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/TimeSpan.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/TimeSpan.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/refint/TimeSpan.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/TimeSpan.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/TimeSpan.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/TimeSpan/obj/Debug/net8.0/ref/TimeSpan.dll
