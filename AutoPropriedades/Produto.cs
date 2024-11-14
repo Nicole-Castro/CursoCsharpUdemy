@@ -27,6 +27,7 @@ namespace Propriedades
             }
         }
 
+        
 
         public double ValorTotalEmEstoque()
         {

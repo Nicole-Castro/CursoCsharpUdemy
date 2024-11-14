@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/bin/Debug/net8.0/Banco
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/bin/Debug/net8.0/Banco.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/bin/Debug/net8.0/Banco.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/bin/Debug/net8.0/Banco.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/bin/Debug/net8.0/Banco.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/Banco.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/Banco.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/Banco.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/Banco.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/Banco.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/refint/Banco.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/Banco.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/Banco.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/ExercicioSecao6/Banco/obj/Debug/net8.0/ref/Banco.dll
