@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/Employees.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/Employees.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/Employees.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/Employees.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/Employees.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/bin/Debug/net8.0/Employees
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/bin/Debug/net8.0/Employees.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/bin/Debug/net8.0/Employees.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/bin/Debug/net8.0/Employees.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/bin/Debug/net8.0/Employees.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/Employees.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/refint/Employees.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/Employees.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/Employees.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Employees/obj/Debug/net8.0/ref/Employees.dll
