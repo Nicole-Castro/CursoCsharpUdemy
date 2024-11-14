@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/bin/Debug/net8.0/ExMatriz
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/bin/Debug/net8.0/ExMatriz.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/bin/Debug/net8.0/ExMatriz.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/bin/Debug/net8.0/ExMatriz.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/bin/Debug/net8.0/ExMatriz.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/ExMatriz.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/ExMatriz.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/ExMatriz.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/ExMatriz.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/ExMatriz.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/ExMatriz.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/refint/ExMatriz.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/ExMatriz.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/ExMatriz.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/ExMatriz/obj/Debug/net8.0/ref/ExMatriz.dll

@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/bin/Debug/net8.0/Matriz
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/bin/Debug/net8.0/Matriz.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/bin/Debug/net8.0/Matriz.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/bin/Debug/net8.0/Matriz.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/bin/Debug/net8.0/Matriz.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/Matriz.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/Matriz.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/Matriz.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/Matriz.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/Matriz.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/Matriz.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/refint/Matriz.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/Matriz.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/Matriz.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Matriz/obj/Debug/net8.0/ref/Matriz.dll
