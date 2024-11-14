@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/bin/Debug/net8.0/DateTimeKind
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/bin/Debug/net8.0/DateTimeKind.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/bin/Debug/net8.0/DateTimeKind.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/bin/Debug/net8.0/DateTimeKind.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/bin/Debug/net8.0/DateTimeKind.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/DateTimeKind.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/DateTimeKind.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/DateTimeKind.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/DateTimeKind.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/DateTimeKind.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/refint/DateTimeKind.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/DateTimeKind.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/DateTimeKind.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/DateTimeKind/obj/Debug/net8.0/ref/DateTimeKind.dll
