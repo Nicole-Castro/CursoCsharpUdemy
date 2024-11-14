@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/bin/Debug/net8.0/RefOut
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/bin/Debug/net8.0/RefOut.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/bin/Debug/net8.0/RefOut.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/bin/Debug/net8.0/RefOut.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/bin/Debug/net8.0/RefOut.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/RefOut.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/RefOut.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/RefOut.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/RefOut.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/RefOut.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/RefOut.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/refint/RefOut.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/RefOut.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/RefOut.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/RefOut/obj/Debug/net8.0/ref/RefOut.dll
