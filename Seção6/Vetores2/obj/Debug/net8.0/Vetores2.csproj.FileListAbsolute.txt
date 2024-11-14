@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/bin/Debug/net8.0/Vetores2
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/bin/Debug/net8.0/Vetores2.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/bin/Debug/net8.0/Vetores2.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/bin/Debug/net8.0/Vetores2.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/bin/Debug/net8.0/Vetores2.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/Vetores2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/Vetores2.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/Vetores2.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/Vetores2.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/Vetores2.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/Vetores2.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/refint/Vetores2.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/Vetores2.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/Vetores2.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Vetores2/obj/Debug/net8.0/ref/Vetores2.dll
