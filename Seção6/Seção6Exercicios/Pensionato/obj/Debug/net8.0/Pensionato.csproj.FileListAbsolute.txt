@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/Pensionato.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/Pensionato.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/Pensionato.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/Pensionato.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/bin/Debug/net8.0/Pensionato
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/bin/Debug/net8.0/Pensionato.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/bin/Debug/net8.0/Pensionato.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/bin/Debug/net8.0/Pensionato.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/bin/Debug/net8.0/Pensionato.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/Pensionato.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/refint/Pensionato.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/Pensionato.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/Pensionato.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção6/Seção6Exercicios/Pensionato/obj/Debug/net8.0/ref/Pensionato.dll
