@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/SwitchCase.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/SwitchCase.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/SwitchCase.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/SwitchCase.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/bin/Debug/net8.0/SwitchCase
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/bin/Debug/net8.0/SwitchCase.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/bin/Debug/net8.0/SwitchCase.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/bin/Debug/net8.0/SwitchCase.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/bin/Debug/net8.0/SwitchCase.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/SwitchCase.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/refint/SwitchCase.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/SwitchCase.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/SwitchCase.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/SwitchCase/obj/Debug/net8.0/ref/SwitchCase.dll

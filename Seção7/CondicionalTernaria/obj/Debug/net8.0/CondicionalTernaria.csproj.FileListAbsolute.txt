@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/CondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/CondicionalTernaria.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/CondicionalTernaria.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/CondicionalTernaria.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/CondicionalTernaria.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/bin/Debug/net8.0/CondicionalTernaria
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/bin/Debug/net8.0/CondicionalTernaria.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/bin/Debug/net8.0/CondicionalTernaria.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/bin/Debug/net8.0/CondicionalTernaria.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/bin/Debug/net8.0/CondicionalTernaria.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/CondicionalTernaria.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/refint/CondicionalTernaria.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/CondicionalTernaria.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/CondicionalTernaria.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/CondicionalTernaria/obj/Debug/net8.0/ref/CondicionalTernaria.dll

@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/bin/Debug/net8.0/PalavraVar
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/bin/Debug/net8.0/PalavraVar.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/bin/Debug/net8.0/PalavraVar.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/bin/Debug/net8.0/PalavraVar.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/bin/Debug/net8.0/PalavraVar.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/PalavraVar.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/PalavraVar.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/PalavraVar.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/PalavraVar.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/PalavraVar.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/PalavraVar.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/refint/PalavraVar.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/PalavraVar.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/PalavraVar.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção7/PalavraVar/obj/Debug/net8.0/ref/PalavraVar.dll
