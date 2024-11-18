@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/bin/Debug/net8.0/Income
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/bin/Debug/net8.0/Income.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/bin/Debug/net8.0/Income.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/bin/Debug/net8.0/Income.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/bin/Debug/net8.0/Income.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/Income.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/Income.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/Income.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/Income.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/Income.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/Income.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/refint/Income.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/Income.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/Income.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Secao8Exercicios/Income/obj/Debug/net8.0/ref/Income.dll

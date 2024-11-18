@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/bin/Debug/net8.0/Enumeracoes
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/bin/Debug/net8.0/Enumeracoes.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/bin/Debug/net8.0/Enumeracoes.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/bin/Debug/net8.0/Enumeracoes.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/bin/Debug/net8.0/Enumeracoes.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/Enumeracoes.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/Enumeracoes.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/Enumeracoes.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/Enumeracoes.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/Enumeracoes.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/refint/Enumeracoes.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/Enumeracoes.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/Enumeracoes.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/Enumeracoes/obj/Debug/net8.0/ref/Enumeracoes.dll
