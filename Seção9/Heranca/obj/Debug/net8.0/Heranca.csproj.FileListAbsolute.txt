@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/bin/Debug/net8.0/Heranca
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/bin/Debug/net8.0/Heranca.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/bin/Debug/net8.0/Heranca.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/bin/Debug/net8.0/Heranca.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/bin/Debug/net8.0/Heranca.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/Heranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/Heranca.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/Heranca.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/Heranca.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/Heranca.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/Heranca.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/refint/Heranca.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/Heranca.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/Heranca.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Heranca/obj/Debug/net8.0/ref/Heranca.dll
