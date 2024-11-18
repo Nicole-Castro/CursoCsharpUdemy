@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/bin/Debug/net8.0/Sobreposicao
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/bin/Debug/net8.0/Sobreposicao.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/bin/Debug/net8.0/Sobreposicao.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/bin/Debug/net8.0/Sobreposicao.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/bin/Debug/net8.0/Sobreposicao.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/Sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/Sobreposicao.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/Sobreposicao.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/Sobreposicao.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/Sobreposicao.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/Sobreposicao.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/refint/Sobreposicao.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/Sobreposicao.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/Sobreposicao.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Sobreposicao/Sobreposicao/obj/Debug/net8.0/ref/Sobreposicao.dll

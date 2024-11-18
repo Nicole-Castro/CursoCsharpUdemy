@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca", "Heranca.csproj", "{D704A884-371B-404D-9B08-309F444D6B6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobreposicao", "Sobreposicao\Sobreposicao.csproj", "{F2B5AA56-8298-4615-BEE4-8DD6C41B9CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobreposicao", "..\Sobreposicao\Sobreposicao.csproj", "{134D199B-78DF-461A-9636-A68B442906AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D704A884-371B-404D-9B08-309F444D6B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D704A884-371B-404D-9B08-309F444D6B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D704A884-371B-404D-9B08-309F444D6B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B5AA56-8298-4615-BEE4-8DD6C41B9CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B5AA56-8298-4615-BEE4-8DD6C41B9CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B5AA56-8298-4615-BEE4-8DD6C41B9CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B5AA56-8298-4615-BEE4-8DD6C41B9CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134D199B-78DF-461A-9636-A68B442906AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134D199B-78DF-461A-9636-A68B442906AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134D199B-78DF-461A-9636-A68B442906AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134D199B-78DF-461A-9636-A68B442906AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
