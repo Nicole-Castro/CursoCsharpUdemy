@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/bin/Debug/net8.0/OrdersEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/bin/Debug/net8.0/OrdersEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/bin/Debug/net8.0/OrdersEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/bin/Debug/net8.0/OrdersEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/bin/Debug/net8.0/OrdersEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/OrdersEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/OrdersEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/OrdersEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/OrdersEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/OrdersEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/OrdersEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/refint/OrdersEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/OrdersEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/OrdersEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção8/OrdersEx/obj/Debug/net8.0/ref/OrdersEx.dll
