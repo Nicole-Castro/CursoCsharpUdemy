@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/bin/Debug/net8.0/HotelExMetodo2
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/bin/Debug/net8.0/HotelExMetodo2.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/bin/Debug/net8.0/HotelExMetodo2.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/bin/Debug/net8.0/HotelExMetodo2.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/bin/Debug/net8.0/HotelExMetodo2.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/HotelExMetodo2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/HotelExMetodo2.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/HotelExMetodo2.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/HotelExMetodo2.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/HotelExMetodo2.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/HotelExMetodo2.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/refint/HotelExMetodo2.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/HotelExMetodo2.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/HotelExMetodo2.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelExMetodo2/obj/Debug/net8.0/ref/HotelExMetodo2.dll

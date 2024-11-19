@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelEx", "HotelEx.csproj", "{8F61E920-F51E-440E-8414-08F1D6EC517F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelExMetodo2", "..\HotelExMetodo2\HotelExMetodo2.csproj", "{1E7C62D5-CF3F-4768-AB50-801F36F2735B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8F61E920-F51E-440E-8414-08F1D6EC517F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F61E920-F51E-440E-8414-08F1D6EC517F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F61E920-F51E-440E-8414-08F1D6EC517F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7C62D5-CF3F-4768-AB50-801F36F2735B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7C62D5-CF3F-4768-AB50-801F36F2735B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7C62D5-CF3F-4768-AB50-801F36F2735B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7C62D5-CF3F-4768-AB50-801F36F2735B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
