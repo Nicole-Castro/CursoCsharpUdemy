@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/bin/Debug/net8.0/UsingTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/bin/Debug/net8.0/UsingTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/bin/Debug/net8.0/UsingTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/bin/Debug/net8.0/UsingTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/bin/Debug/net8.0/UsingTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/UsingTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/UsingTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/UsingTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/UsingTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/UsingTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/UsingTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/refint/UsingTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/UsingTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/UsingTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/UsingTest/obj/Debug/net8.0/ref/UsingTest.dll
