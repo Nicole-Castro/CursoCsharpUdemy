@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchExceptions", "TryCatchExceptions\TryCatchExceptions.csproj", "{2CE82DA2-B5A4-4737-962C-68AD245F35AF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Seção10Ex", "Seção10Ex", "{1BC9021B-133A-4FB0-B42D-5AC43AB3FF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelExMetodo3", "Seção10Ex\HotelExMetodo3\HotelExMetodo3.csproj", "{97292827-A65E-40DB-ABB0-AAD542B94261}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,12 @@ Global
 		{2CE82DA2-B5A4-4737-962C-68AD245F35AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CE82DA2-B5A4-4737-962C-68AD245F35AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CE82DA2-B5A4-4737-962C-68AD245F35AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97292827-A65E-40DB-ABB0-AAD542B94261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97292827-A65E-40DB-ABB0-AAD542B94261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97292827-A65E-40DB-ABB0-AAD542B94261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97292827-A65E-40DB-ABB0-AAD542B94261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{97292827-A65E-40DB-ABB0-AAD542B94261} = {1BC9021B-133A-4FB0-B42D-5AC43AB3FF70}
 	EndGlobalSection
 EndGlobal
