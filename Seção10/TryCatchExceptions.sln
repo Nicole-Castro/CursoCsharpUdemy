@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Seção10Ex", "Seção10Ex"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelExMetodo3", "Seção10Ex\HotelExMetodo3\HotelExMetodo3.csproj", "{97292827-A65E-40DB-ABB0-AAD542B94261}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTest", "..\Seção11\FileTest\FileTest.csproj", "{121AB24A-71AE-4E48-8E5B-878CB87DEF12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{97292827-A65E-40DB-ABB0-AAD542B94261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97292827-A65E-40DB-ABB0-AAD542B94261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97292827-A65E-40DB-ABB0-AAD542B94261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{121AB24A-71AE-4E48-8E5B-878CB87DEF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121AB24A-71AE-4E48-8E5B-878CB87DEF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121AB24A-71AE-4E48-8E5B-878CB87DEF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121AB24A-71AE-4E48-8E5B-878CB87DEF12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{97292827-A65E-40DB-ABB0-AAD542B94261} = {1BC9021B-133A-4FB0-B42D-5AC43AB3FF70}

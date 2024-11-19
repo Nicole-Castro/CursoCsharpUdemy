@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/bin/Debug/net8.0/FileTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/bin/Debug/net8.0/FileTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/bin/Debug/net8.0/FileTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/bin/Debug/net8.0/FileTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/bin/Debug/net8.0/FileTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/FileTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/FileTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/FileTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/FileTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/FileTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/FileTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/refint/FileTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/FileTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/FileTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileTest/obj/Debug/net8.0/ref/FileTest.dll
