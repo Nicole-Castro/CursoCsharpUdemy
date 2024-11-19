@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstrato", "Abstrato.csproj", "{AD681A7E-5568-408F-807C-A788CEB255DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigurasEx", "..\Secao9Ex\FigurasEx\FigurasEx.csproj", "{57317455-10B8-41FE-A7EE-9F294EFE184B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD681A7E-5568-408F-807C-A788CEB255DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD681A7E-5568-408F-807C-A788CEB255DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD681A7E-5568-408F-807C-A788CEB255DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD681A7E-5568-408F-807C-A788CEB255DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57317455-10B8-41FE-A7EE-9F294EFE184B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57317455-10B8-41FE-A7EE-9F294EFE184B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57317455-10B8-41FE-A7EE-9F294EFE184B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57317455-10B8-41FE-A7EE-9F294EFE184B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D8E4CF5-1131-4F9B-A6D3-CAAEFA4D1102}
+	EndGlobalSection
+EndGlobal

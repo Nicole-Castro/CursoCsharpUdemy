@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/FigurasEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/FigurasEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/FigurasEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/FigurasEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/FigurasEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/bin/Debug/net8.0/FigurasEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/bin/Debug/net8.0/FigurasEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/bin/Debug/net8.0/FigurasEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/bin/Debug/net8.0/FigurasEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/bin/Debug/net8.0/FigurasEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/FigurasEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/refint/FigurasEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/FigurasEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/FigurasEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FigurasEx/obj/Debug/net8.0/ref/FigurasEx.dll

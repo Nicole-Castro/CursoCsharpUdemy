@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdutoEx", "ProdutoEx.csproj", "{6485F0D7-DB70-4CC7-80D2-76DFFEA79DC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstrato", "..\..\Abstrato\Abstrato.csproj", "{13A1CC63-2DCE-4822-97BA-DE7CF383CD61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6485F0D7-DB70-4CC7-80D2-76DFFEA79DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6485F0D7-DB70-4CC7-80D2-76DFFEA79DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6485F0D7-DB70-4CC7-80D2-76DFFEA79DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A1CC63-2DCE-4822-97BA-DE7CF383CD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A1CC63-2DCE-4822-97BA-DE7CF383CD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A1CC63-2DCE-4822-97BA-DE7CF383CD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A1CC63-2DCE-4822-97BA-DE7CF383CD61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
