@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/bin/Debug/net8.0/ContractEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/bin/Debug/net8.0/ContractEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/bin/Debug/net8.0/ContractEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/bin/Debug/net8.0/ContractEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/bin/Debug/net8.0/ContractEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/ContractEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/ContractEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/ContractEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/ContractEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/ContractEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/ContractEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/refint/ContractEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/ContractEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/ContractEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/Secao12Ex/ContractEx/obj/Debug/net8.0/ref/ContractEx.dll
