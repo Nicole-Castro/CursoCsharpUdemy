@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/bin/Debug/net8.0/DirectoriesTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/bin/Debug/net8.0/DirectoriesTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/bin/Debug/net8.0/DirectoriesTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/bin/Debug/net8.0/DirectoriesTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/bin/Debug/net8.0/DirectoriesTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/DirectoriesTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/DirectoriesTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/DirectoriesTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/DirectoriesTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/DirectoriesTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/DirectoriesTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/refint/DirectoriesTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/DirectoriesTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/DirectoriesTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/DirectoriesTest/obj/Debug/net8.0/ref/DirectoriesTest.dll

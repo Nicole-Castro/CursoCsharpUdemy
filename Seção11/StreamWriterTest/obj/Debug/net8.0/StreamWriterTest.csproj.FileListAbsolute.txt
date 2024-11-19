@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/bin/Debug/net8.0/StreamWriterTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/bin/Debug/net8.0/StreamWriterTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/bin/Debug/net8.0/StreamWriterTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/bin/Debug/net8.0/StreamWriterTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/bin/Debug/net8.0/StreamWriterTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/StreamWriterTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/StreamWriterTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/StreamWriterTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/StreamWriterTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/StreamWriterTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/StreamWriterTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/refint/StreamWriterTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/StreamWriterTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/StreamWriterTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/StreamWriterTest/obj/Debug/net8.0/ref/StreamWriterTest.dll
