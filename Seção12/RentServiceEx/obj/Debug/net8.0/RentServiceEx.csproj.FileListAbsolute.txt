@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/bin/Debug/net8.0/RentServiceEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/bin/Debug/net8.0/RentServiceEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/bin/Debug/net8.0/RentServiceEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/bin/Debug/net8.0/RentServiceEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/bin/Debug/net8.0/RentServiceEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/RentServiceEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/RentServiceEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/RentServiceEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/RentServiceEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/RentServiceEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/RentServiceEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/refint/RentServiceEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/RentServiceEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/RentServiceEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/RentServiceEx/obj/Debug/net8.0/ref/RentServiceEx.dll

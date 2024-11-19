@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTest", "..\Seção11\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIleEx", "..\Seção11\Seção11Ex\FIleEx\FIleEx.csproj", "{8F761E6D-7CE8-4AC2-98BA-D083330EADD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentServiceEx", "..\Seção12\RentServiceEx\RentServiceEx.csproj", "{F8FC4913-A141-4584-838C-870499A87C4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{8F761E6D-7CE8-4AC2-98BA-D083330EADD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F761E6D-7CE8-4AC2-98BA-D083330EADD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F761E6D-7CE8-4AC2-98BA-D083330EADD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FC4913-A141-4584-838C-870499A87C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FC4913-A141-4584-838C-870499A87C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FC4913-A141-4584-838C-870499A87C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FC4913-A141-4584-838C-870499A87C4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{97292827-A65E-40DB-ABB0-AAD542B94261} = {1BC9021B-133A-4FB0-B42D-5AC43AB3FF70}
