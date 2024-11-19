@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/bin/Debug/net8.0/ShapeEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/bin/Debug/net8.0/ShapeEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/bin/Debug/net8.0/ShapeEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/bin/Debug/net8.0/ShapeEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/bin/Debug/net8.0/ShapeEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/ShapeEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/ShapeEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/ShapeEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/ShapeEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/ShapeEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/ShapeEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/refint/ShapeEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/ShapeEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/ShapeEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ShapeEx/obj/Debug/net8.0/ref/ShapeEx.dll
