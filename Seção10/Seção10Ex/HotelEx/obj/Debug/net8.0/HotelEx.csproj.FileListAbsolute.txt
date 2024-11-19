@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/bin/Debug/net8.0/HotelEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/bin/Debug/net8.0/HotelEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/bin/Debug/net8.0/HotelEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/bin/Debug/net8.0/HotelEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/bin/Debug/net8.0/HotelEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/HotelEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/HotelEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/HotelEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/HotelEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/HotelEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/HotelEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/refint/HotelEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/HotelEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/HotelEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/HotelEx/obj/Debug/net8.0/ref/HotelEx.dll
