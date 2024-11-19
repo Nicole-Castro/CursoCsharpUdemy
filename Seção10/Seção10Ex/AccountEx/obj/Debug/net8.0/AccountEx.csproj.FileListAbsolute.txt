@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/bin/Debug/net8.0/AccountEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/bin/Debug/net8.0/AccountEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/bin/Debug/net8.0/AccountEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/bin/Debug/net8.0/AccountEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/bin/Debug/net8.0/AccountEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/AccountEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/AccountEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/AccountEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/AccountEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/AccountEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/AccountEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/refint/AccountEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/AccountEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/AccountEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção10/Seção10Ex/AccountEx/obj/Debug/net8.0/ref/AccountEx.dll
