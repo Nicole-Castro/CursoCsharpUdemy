@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/bin/Debug/net8.0/FileStreamTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/bin/Debug/net8.0/FileStreamTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/bin/Debug/net8.0/FileStreamTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/bin/Debug/net8.0/FileStreamTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/bin/Debug/net8.0/FileStreamTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/FileStreamTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/FileStreamTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/FileStreamTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/FileStreamTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/FileStreamTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/FileStreamTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/refint/FileStreamTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/FileStreamTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/FileStreamTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/FileStreamTest/obj/Debug/net8.0/ref/FileStreamTest.dll
