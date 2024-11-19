@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/bin/Debug/net8.0/FIleEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/bin/Debug/net8.0/FIleEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/bin/Debug/net8.0/FIleEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/bin/Debug/net8.0/FIleEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/bin/Debug/net8.0/FIleEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/FIleEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/FIleEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/FIleEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/FIleEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/FIleEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/FIleEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/refint/FIleEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/FIleEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/FIleEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção11/Seção11Ex/FIleEx/obj/Debug/net8.0/ref/FIleEx.dll
