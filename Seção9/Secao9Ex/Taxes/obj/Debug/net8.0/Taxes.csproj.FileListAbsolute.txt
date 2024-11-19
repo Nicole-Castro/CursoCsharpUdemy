@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/bin/Debug/net8.0/Taxes
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/bin/Debug/net8.0/Taxes.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/bin/Debug/net8.0/Taxes.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/bin/Debug/net8.0/Taxes.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/bin/Debug/net8.0/Taxes.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/Taxes.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/Taxes.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/Taxes.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/Taxes.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/Taxes.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/Taxes.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/refint/Taxes.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/Taxes.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/Taxes.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/Taxes/obj/Debug/net8.0/ref/Taxes.dll
