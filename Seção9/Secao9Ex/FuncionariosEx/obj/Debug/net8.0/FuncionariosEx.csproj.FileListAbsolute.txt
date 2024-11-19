@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/bin/Debug/net8.0/FuncionariosEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/bin/Debug/net8.0/FuncionariosEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/bin/Debug/net8.0/FuncionariosEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/bin/Debug/net8.0/FuncionariosEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/bin/Debug/net8.0/FuncionariosEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/FuncionariosEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/FuncionariosEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/FuncionariosEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/FuncionariosEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/FuncionariosEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/FuncionariosEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/refint/FuncionariosEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/FuncionariosEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/FuncionariosEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/FuncionariosEx/obj/Debug/net8.0/ref/FuncionariosEx.dll

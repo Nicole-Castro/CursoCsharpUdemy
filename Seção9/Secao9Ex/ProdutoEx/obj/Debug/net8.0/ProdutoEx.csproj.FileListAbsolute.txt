@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/bin/Debug/net8.0/ProdutoEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/bin/Debug/net8.0/ProdutoEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/bin/Debug/net8.0/ProdutoEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/bin/Debug/net8.0/ProdutoEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/bin/Debug/net8.0/ProdutoEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/ProdutoEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/ProdutoEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/ProdutoEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/ProdutoEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/ProdutoEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/ProdutoEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/refint/ProdutoEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/ProdutoEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/ProdutoEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção9/Secao9Ex/ProdutoEx/obj/Debug/net8.0/ref/ProdutoEx.dll
