@@ -34,7 +34,7 @@ namespace AccountEx.Entities
             if(amount > WithdrawLimit){
                 throw new DomainException("The amount exceeds withdraw limit");
             }
-            Balance -= amount;
+            Balance-= amount;
         }
     }
 }
