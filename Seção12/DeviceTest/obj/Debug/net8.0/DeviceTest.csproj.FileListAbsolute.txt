@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/DeviceTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/DeviceTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/DeviceTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/DeviceTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/DeviceTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/bin/Debug/net8.0/DeviceTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/bin/Debug/net8.0/DeviceTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/bin/Debug/net8.0/DeviceTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/bin/Debug/net8.0/DeviceTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/bin/Debug/net8.0/DeviceTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/DeviceTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/refint/DeviceTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/DeviceTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/DeviceTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/DeviceTest/obj/Debug/net8.0/ref/DeviceTest.dll
