@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/bin/Debug/net8.0/ICompaableTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/bin/Debug/net8.0/ICompaableTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/bin/Debug/net8.0/ICompaableTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/bin/Debug/net8.0/ICompaableTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/bin/Debug/net8.0/ICompaableTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/ICompaableTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/ICompaableTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/ICompaableTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/ICompaableTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/ICompaableTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/ICompaableTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/refint/ICompaableTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/ICompaableTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/ICompaableTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção12/ICompaableTest/obj/Debug/net8.0/ref/ICompaableTest.dll
