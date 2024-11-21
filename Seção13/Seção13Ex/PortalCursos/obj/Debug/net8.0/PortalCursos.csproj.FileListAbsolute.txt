@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/bin/Debug/net8.0/PortalCursos
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/bin/Debug/net8.0/PortalCursos.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/bin/Debug/net8.0/PortalCursos.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/bin/Debug/net8.0/PortalCursos.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/bin/Debug/net8.0/PortalCursos.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/PortalCursos.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/PortalCursos.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/PortalCursos.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/PortalCursos.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/PortalCursos.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/PortalCursos.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/refint/PortalCursos.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/PortalCursos.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/PortalCursos.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/PortalCursos/obj/Debug/net8.0/ref/PortalCursos.dll
