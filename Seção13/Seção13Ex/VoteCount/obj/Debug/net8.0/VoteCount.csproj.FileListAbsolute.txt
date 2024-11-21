@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/bin/Debug/net8.0/VoteCount
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/bin/Debug/net8.0/VoteCount.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/bin/Debug/net8.0/VoteCount.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/bin/Debug/net8.0/VoteCount.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/bin/Debug/net8.0/VoteCount.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/VoteCount.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/VoteCount.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/VoteCount.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/VoteCount.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/VoteCount.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/VoteCount.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/refint/VoteCount.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/VoteCount.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/VoteCount.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Seção13Ex/VoteCount/obj/Debug/net8.0/ref/VoteCount.dll
