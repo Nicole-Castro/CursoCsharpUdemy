@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/bin/Debug/net8.0/PredicateTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/bin/Debug/net8.0/PredicateTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/bin/Debug/net8.0/PredicateTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/bin/Debug/net8.0/PredicateTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/bin/Debug/net8.0/PredicateTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/PredicateTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/PredicateTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/PredicateTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/PredicateTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/PredicateTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/PredicateTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/refint/PredicateTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/PredicateTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/PredicateTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/PredicateTest/obj/Debug/net8.0/ref/PredicateTest.dll
