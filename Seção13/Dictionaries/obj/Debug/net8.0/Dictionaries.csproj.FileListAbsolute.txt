@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/Dictionaries.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/Dictionaries.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/Dictionaries.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/Dictionaries.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/bin/Debug/net8.0/Dictionaries
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/bin/Debug/net8.0/Dictionaries.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/bin/Debug/net8.0/Dictionaries.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/bin/Debug/net8.0/Dictionaries.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/bin/Debug/net8.0/Dictionaries.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/Dictionaries.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/refint/Dictionaries.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/Dictionaries.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/Dictionaries.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Dictionaries/obj/Debug/net8.0/ref/Dictionaries.dll
