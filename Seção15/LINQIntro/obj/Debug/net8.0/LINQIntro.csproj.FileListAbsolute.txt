@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/bin/Debug/net8.0/LINQIntro
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/bin/Debug/net8.0/LINQIntro.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/bin/Debug/net8.0/LINQIntro.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/bin/Debug/net8.0/LINQIntro.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/bin/Debug/net8.0/LINQIntro.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/LINQIntro.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/LINQIntro.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/LINQIntro.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/LINQIntro.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/LINQIntro.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/LINQIntro.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/refint/LINQIntro.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/LINQIntro.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/LINQIntro.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LINQIntro/obj/Debug/net8.0/ref/LINQIntro.dll

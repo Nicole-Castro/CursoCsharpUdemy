@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncTest", "FuncTest.csproj", "{0CD38E85-86D6-4292-8636-930618A07EFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQIntro", "..\LINQIntro\LINQIntro.csproj", "{86E9FD6E-B1CD-4C7F-B15D-972D822C95CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0CD38E85-86D6-4292-8636-930618A07EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CD38E85-86D6-4292-8636-930618A07EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CD38E85-86D6-4292-8636-930618A07EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E9FD6E-B1CD-4C7F-B15D-972D822C95CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E9FD6E-B1CD-4C7F-B15D-972D822C95CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E9FD6E-B1CD-4C7F-B15D-972D822C95CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E9FD6E-B1CD-4C7F-B15D-972D822C95CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

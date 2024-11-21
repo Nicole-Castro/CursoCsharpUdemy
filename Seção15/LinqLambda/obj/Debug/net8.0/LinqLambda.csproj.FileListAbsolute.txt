@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/LinqLambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/LinqLambda.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/LinqLambda.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/LinqLambda.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/LinqLambda.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/bin/Debug/net8.0/LinqLambda
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/bin/Debug/net8.0/LinqLambda.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/bin/Debug/net8.0/LinqLambda.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/bin/Debug/net8.0/LinqLambda.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/bin/Debug/net8.0/LinqLambda.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/LinqLambda.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/refint/LinqLambda.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/LinqLambda.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/LinqLambda.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/LinqLambda/obj/Debug/net8.0/ref/LinqLambda.dll
