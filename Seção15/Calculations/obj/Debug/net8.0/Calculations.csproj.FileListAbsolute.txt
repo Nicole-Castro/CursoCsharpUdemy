@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/bin/Debug/net8.0/Calculations
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/bin/Debug/net8.0/Calculations.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/bin/Debug/net8.0/Calculations.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/bin/Debug/net8.0/Calculations.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/bin/Debug/net8.0/Calculations.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/Calculations.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/Calculations.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/Calculations.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/Calculations.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/Calculations.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/Calculations.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/refint/Calculations.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/Calculations.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/Calculations.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/Calculations/obj/Debug/net8.0/ref/Calculations.dll
