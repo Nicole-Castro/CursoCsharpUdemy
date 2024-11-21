@@ -33,28 +33,39 @@ class Program
             new Product() { Id = 11, Name = "Level", Price = 70.0, Category = c1 }
         };
 
-        var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900);
+        //var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900);
+        var r1 = from p in products
+        where p.Category.Tier == 1 && p.Price < 900.0 select p;
         Print("Tier 1 and Price < 900", r1);
-        var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+
+        //var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+        var r2 = from p in products
+            where p.Category.Name == "tools" select p.Name;
         Print("Names of products from tools", r2);
 
-        var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });
-
+        //var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });
+            var r3 = from p in products
+            where p.Name[0] =="C"
+            select new{
+                p.Name,
+                p.Price,
+                CategoryName = p.Category.Name
+            };
         Print("Names of products that start with c", r3);
 
-        var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
+        // var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
+        var r4 = from p in products
+        where p.Category.Tier == 1
+        orderby p.Name
         Print("Products with Tier 1 Ordered by Price and then Name", r4);
 
-        // var r5 = r4.Skip(2).Take(4);
-        var r5 = (from p in r4 select p).Skip(2).Take(4);
+        var r5 = r4.Skip(2).Take(4);
         Print("Skip and Take", r5);
 
-        // var r6 = products.FirstOrDefault();
-        var r6 = (from p in products select p).FirstOrDefault();
+        var r6 = products.FirstOrDefault();
         System.Console.WriteLine("First or Default test 1: " + r6);
 
-        // var r7 = products.Where(p => p.Price > 3000).FirstOrDefault();
-        var r7 = (from p in products where p.Price > 3000.0 select p).FirstOrDefault();
+        var r7 = products.Where(p => p.Price > 3000).FirstOrDefault();
         System.Console.WriteLine("First or Default test 2: " + r7);
 
         var r8 = products.Where(p => p.Id == 3).SingleOrDefault();
@@ -68,7 +79,6 @@ class Program
 
         var r11 = products.Min(p => p.Price);
         System.Console.WriteLine("Min Price: " + r11);
-        System.Console.WriteLine();
 
         var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
         System.Console.WriteLine("Category 1 sum prices: " + r12);
@@ -81,10 +91,8 @@ class Program
 
         var r15 = products.Where(p => p.Category.Id == 1).Select(p=> p.Price).Aggregate(0.0,(x,y) => x+y);
         System.Console.WriteLine("Category 1 aggregate sum: " + r15);
-        System.Console.WriteLine();
 
-        // var r16 = products.GroupBy(p => p.Category);
-        var r16 = from p in products group p by p.Category;
+        var r16 = products.GroupBy(p => p.Category);
         foreach(IGrouping<Category,Product> group in r16){
             System.Console.WriteLine("Cateory " + group.Key.Name + ": ");
             foreach(Product p in group){

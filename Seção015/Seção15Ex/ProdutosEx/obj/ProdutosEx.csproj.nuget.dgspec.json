@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/LinqLambda/LinqLambda.csproj": {}
+    "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/ProdutosEx/ProdutosEx.csproj": {}
   },
   "projects": {
-    "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/LinqLambda/LinqLambda.csproj": {
+    "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/ProdutosEx/ProdutosEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/LinqLambda/LinqLambda.csproj",
-        "projectName": "LinqLambda",
-        "projectPath": "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/LinqLambda/LinqLambda.csproj",
+        "projectUniqueName": "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/ProdutosEx/ProdutosEx.csproj",
+        "projectName": "ProdutosEx",
+        "projectPath": "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/ProdutosEx/ProdutosEx.csproj",
         "packagesPath": "/home/nicole/.nuget/packages/",
-        "outputPath": "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/LinqLambda/obj/",
+        "outputPath": "/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/ProdutosEx/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nicole/.nuget/NuGet/NuGet.Config"
