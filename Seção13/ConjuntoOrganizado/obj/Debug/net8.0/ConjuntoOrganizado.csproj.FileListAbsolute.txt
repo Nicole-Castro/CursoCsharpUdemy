@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/bin/Debug/net8.0/ConjuntoOrganizado
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/bin/Debug/net8.0/ConjuntoOrganizado.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/bin/Debug/net8.0/ConjuntoOrganizado.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/bin/Debug/net8.0/ConjuntoOrganizado.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/bin/Debug/net8.0/ConjuntoOrganizado.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/ConjuntoOrganizado.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/ConjuntoOrganizado.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/ConjuntoOrganizado.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/ConjuntoOrganizado.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/ConjuntoOrganizado.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/ConjuntoOrganizado.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/refint/ConjuntoOrganizado.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/ConjuntoOrganizado.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/ConjuntoOrganizado.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ConjuntoOrganizado/obj/Debug/net8.0/ref/ConjuntoOrganizado.dll

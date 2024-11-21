@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShapeEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beec4f3005b5c4aae1e5cc60b6397bc0d39be863")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efda8f56d887609465b9dc72b8ed78dbb392a275")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShapeEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShapeEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
