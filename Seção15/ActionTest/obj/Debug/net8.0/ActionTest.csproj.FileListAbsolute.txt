@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/bin/Debug/net8.0/ActionTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/bin/Debug/net8.0/ActionTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/bin/Debug/net8.0/ActionTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/bin/Debug/net8.0/ActionTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/bin/Debug/net8.0/ActionTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/ActionTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/ActionTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/ActionTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/ActionTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/ActionTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/ActionTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/refint/ActionTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/ActionTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/ActionTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção15/ActionTest/obj/Debug/net8.0/ref/ActionTest.dll
