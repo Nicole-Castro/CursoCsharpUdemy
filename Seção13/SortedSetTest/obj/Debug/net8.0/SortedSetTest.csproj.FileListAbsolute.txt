@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/bin/Debug/net8.0/SortedSetTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/bin/Debug/net8.0/SortedSetTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/bin/Debug/net8.0/SortedSetTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/bin/Debug/net8.0/SortedSetTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/bin/Debug/net8.0/SortedSetTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/SortedSetTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/SortedSetTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/SortedSetTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/SortedSetTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/SortedSetTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/SortedSetTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/refint/SortedSetTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/SortedSetTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/SortedSetTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/SortedSetTest/obj/Debug/net8.0/ref/SortedSetTest.dll

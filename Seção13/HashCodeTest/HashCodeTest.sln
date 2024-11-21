@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashCodeTest", "HashCodeTest.csproj", "{59123FBC-7BBC-4266-9479-696F2A7F4FE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetTest", "..\HashSetTest\HashSetTest.csproj", "{8A9CF7E6-A491-4915-87E0-3D5A3850197B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{59123FBC-7BBC-4266-9479-696F2A7F4FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59123FBC-7BBC-4266-9479-696F2A7F4FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59123FBC-7BBC-4266-9479-696F2A7F4FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A9CF7E6-A491-4915-87E0-3D5A3850197B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9CF7E6-A491-4915-87E0-3D5A3850197B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9CF7E6-A491-4915-87E0-3D5A3850197B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9CF7E6-A491-4915-87E0-3D5A3850197B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
