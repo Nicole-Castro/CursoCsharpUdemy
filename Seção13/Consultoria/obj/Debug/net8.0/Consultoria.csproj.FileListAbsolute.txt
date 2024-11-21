@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/bin/Debug/net8.0/Consultoria
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/bin/Debug/net8.0/Consultoria.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/bin/Debug/net8.0/Consultoria.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/bin/Debug/net8.0/Consultoria.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/bin/Debug/net8.0/Consultoria.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/Consultoria.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/Consultoria.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/Consultoria.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/Consultoria.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/Consultoria.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/Consultoria.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/refint/Consultoria.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/Consultoria.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/Consultoria.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/Consultoria/obj/Debug/net8.0/ref/Consultoria.dll

@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/HashCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/HashCodeTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/HashCodeTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/HashCodeTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/HashCodeTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/bin/Debug/net8.0/HashCodeTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/bin/Debug/net8.0/HashCodeTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/bin/Debug/net8.0/HashCodeTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/bin/Debug/net8.0/HashCodeTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/bin/Debug/net8.0/HashCodeTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/HashCodeTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/refint/HashCodeTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/HashCodeTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/HashCodeTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/HashCodeTest/obj/Debug/net8.0/ref/HashCodeTest.dll
