@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/bin/Debug/net8.0/ComparisonTest
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/bin/Debug/net8.0/ComparisonTest.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/bin/Debug/net8.0/ComparisonTest.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/bin/Debug/net8.0/ComparisonTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/bin/Debug/net8.0/ComparisonTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/ComparisonTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/ComparisonTest.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/ComparisonTest.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/ComparisonTest.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/ComparisonTest.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/ComparisonTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/refint/ComparisonTest.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/ComparisonTest.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/ComparisonTest.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção13/ComparisonTest/obj/Debug/net8.0/ref/ComparisonTest.dll
