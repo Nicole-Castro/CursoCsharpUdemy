@@ -1,0 +1,15 @@
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/FuncionarioEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/FuncionarioEx.AssemblyInfoInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/FuncionarioEx.AssemblyInfo.cs
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/FuncionarioEx.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/FuncionarioEx.sourcelink.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/bin/Debug/net8.0/FuncionarioEx
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/bin/Debug/net8.0/FuncionarioEx.deps.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/bin/Debug/net8.0/FuncionarioEx.runtimeconfig.json
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/bin/Debug/net8.0/FuncionarioEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/bin/Debug/net8.0/FuncionarioEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/FuncionarioEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/refint/FuncionarioEx.dll
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/FuncionarioEx.pdb
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/FuncionarioEx.genruntimeconfig.cache
+/home/nicole/Documentos/C#/CursoC#UdemyCode/Seção015/Seção15Ex/FuncionarioEx/obj/Debug/net8.0/ref/FuncionarioEx.dll
